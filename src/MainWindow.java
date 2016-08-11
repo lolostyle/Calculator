@@ -9,12 +9,12 @@ import javax.swing.JTextField;
 public class MainWindow {
 
 
-	private JButton button0 = new JButton("0");
-	private JButton button1 = new JButton("0");
-	private JButton button2 = new JButton("0");
-	private JButton button3 = new JButton("0");
-	private JButton button4 = new JButton("0");
-	private JButton button5 = new JButton("0");
+	private JButton button0 = new JButton("Xuy");
+	private JButton button1 = new JButton("Talyan");
+	private JButton button2 = new JButton("Sosi ");
+	private JButton button3 = new JButton("Chmo");
+	private JButton button4 = new JButton("ANATOLIY");
+	private JButton button5 = new JButton("GANDON");
 	private JButton button6 = new JButton("0");
 	private JButton button7 = new JButton("0");
 	private JButton button8 = new JButton("0");
